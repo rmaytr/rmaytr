@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Rodion Mayatskiy, Computer Science and Physics at UAB">
-</p>
+<h1 align="center">
+  Rodion Mayatskiy
+</h1>
 
 <p align="center">
   <a href="https://rmaytr.github.io"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio"></a>
@@ -139,7 +139,3 @@
 </table>
 
 <br>
-
-<p align="center">
-  <sub>Many of these projects are AI-assisted, built with Claude Code and Codex.</sub>
-</p>
